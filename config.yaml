@@ -1,0 +1,14 @@
+baseURL : "http://e-schafer.github.io/legendary-waffle"
+languageCode : "en-us"
+title : "e-schafer blog"
+theme : ["github.com/theNewDynamic/gohugo-theme-ananke"]
+params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/schafer490
+    label: TND Twitter
+  - name: github
+    url: https://github.com/e-schafer
+    label: TND GitHub Account
+    color: '#ff6800'
+    
