@@ -1,7 +1,7 @@
 ---
 title: "Your Data Strategy Will Fail"
 date: 2022-11-02T10:09:19+01:00
-draft: false
+draft: true
 omit_header_text: true
 featured_image : "meteor.jpg"
 ---
