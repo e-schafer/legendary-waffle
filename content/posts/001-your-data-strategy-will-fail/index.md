@@ -21,4 +21,10 @@ Well, it is quite explicit, if your company starts a new data project, you have 
  
  First of all there is never one issue, it is always multiple problems and bad habits that collide together.
  
+## 1 - Buzz words bingo
+Nearly every time, new data politics come from the top. The deciders want to stay in the trend and so decide that the next day the company will be proeficient in chatbot, machine learning and data sciences... And that company is still working with IBM Mainframe.
+Not all companies need the last cutting edge data analysis plateforme for producing financial reports.
+That the first issue, top and bottom are totally unaligned on what should be done.
+
+## 2 - House of madness
  
