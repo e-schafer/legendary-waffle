@@ -20,11 +20,18 @@ Well, it is quite explicit, if your company starts a new data project, you have 
 # Where is the problem ?
  
  First of all there is never one issue, it is always multiple problems and bad habits that collide together.
- 
-## 1 - Buzz words bingo
-Nearly every time, new data politics come from the top. The deciders want to stay in the trend and so decide that the next day the company will be proeficient in chatbot, machine learning and data sciences... And that company is still working with IBM Mainframe.
-Not all companies need the last cutting edge data analysis plateforme for producing financial reports.
-That the first issue, top and bottom are totally unaligned on what should be done.
 
-## 2 - House of madness
- 
+## Lack of clear vision and specific goals:
+having a clear vision and specific goals is essential to guide the data project and ensure that it makes sense and adds value.
+
+## Lack of adequate planning:
+adequate planning is crucial for managing the risks and challenges associated with the data project. If the project is poorly planned, it may be difficult to stay on schedule and within the allocated budget.
+
+## Poor data management:
+data management is a key element of any data project. If the data is not properly prepared, stored, and managed, this can lead to problems with data quality and impact the accuracy and reliability of the results obtained.
+
+## Low stakeholder engagement:
+stakeholder engagement and participation are essential for the success of a data project. If stakeholders are not adequately involved or aligned with the project goals, this can lead to communication and collaboration problems.
+
+## Lack of resources and skills:
+a data project can fail if there is a lack of the necessary resources and skills to complete the project. This can include a shortage of qualified personnel, budget, or allocated time. It is important to ensure that the project has the adequate resources and skills to succeed.
